@@ -1,4 +1,4 @@
-### Obsessed with Dlang and 3D graphics. Currently building my first full game. 
+### Hi! 
 
 <!--
 **RenateZwei/RenateZwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
